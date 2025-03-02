@@ -1,0 +1,9 @@
+# Ignore log files
+debug.log
+
+# Ignore performance metrics CSV file
+data/results/performance_metrics.csv
+
+# Ignore the generated files
+data/mazes/generated_maze.txt
+data/mazes/solution_path.txt
